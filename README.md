@@ -2,7 +2,7 @@
 
 This repository contains a **Power BI** project focused on tracking operational efficiency and financial performance. This dashboard is designed to transform raw data into actionable insights for business management.
 
-## 🚀 Project Overview
+##  Project Overview
 This dashboard provides a high-level view of key performance indicators (KPIs), allowing stakeholders to monitor the health of the business and the efficiency of its operations.
 
 ## Key Insights & Features
