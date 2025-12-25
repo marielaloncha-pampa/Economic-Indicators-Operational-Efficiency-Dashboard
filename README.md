@@ -12,6 +12,7 @@ This tool is designed for deep-dive economic research, allowing users to visuali
 * **Federal Insights:** Ability to compare economic performance between different provinces to identify regional growth patterns.
 
 ## Dashboard Preview
+
 ![Dashboard Preview](dashboard_indicadores.jpg)
 
 ## Technical Implementation
@@ -22,6 +23,8 @@ This tool is designed for deep-dive economic research, allowing users to visuali
 ## Repository Content
 * **Source File:** `Proyecto_Indicadores_Ec.pbix`
 * **Visual Documentation:**
+
+  
 ![Dashboard Preview](dashboard_indicadores2.jpg)
 
 ---
