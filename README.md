@@ -20,7 +20,7 @@ This dashboard provides a high-level view of key performance indicators (KPIs), 
 * **Source File:** `Proyecto_Indicadores_Ec.pbix`
 * **Visual Documentation:** High-resolution screenshots showing the dashboard's layout and interactivity.
 
-![Dashboard Preview](dashboard_econ.jpg)
+![Dashboard Preview](dashboard_indicadores2.jpg) 
 
 ---
-*Developed by Mariela Loncha-Pampa*
+*Developed by Mariela Loncharich*
