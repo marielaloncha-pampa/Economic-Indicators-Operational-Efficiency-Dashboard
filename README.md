@@ -5,6 +5,8 @@ This repository contains a **Power BI** project focused on tracking operational 
 ##  Project Overview
 This dashboard provides a high-level view of key performance indicators (KPIs), allowing stakeholders to monitor the health of the business and the efficiency of its operations.
 
+![Dashboard Preview](dashboard_indicadores.jpg)
+
 ## Key Insights & Features
 * **Economic Performance:** Analysis of costs and revenue trends to ensure project profitability.
 * **Operational Efficiency:** Visualization of productivity metrics and resource utilization.
@@ -21,6 +23,8 @@ This dashboard provides a high-level view of key performance indicators (KPIs), 
 * **Visual Documentation:** High-resolution screenshots showing the dashboard's layout and interactivity.
 
 ![Dashboard Preview](dashboard_indicadores2.jpg) 
+
+
 
 ---
 *Developed by Mariela Loncharich*
